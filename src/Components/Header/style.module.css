@@ -1,0 +1,9 @@
+.wrapperHeader{
+    background-color: white;
+}
+
+.header{
+    max-width: 600px;
+    margin: auto;
+    padding: .5rem 0;
+}
